@@ -94,7 +94,7 @@ O projeto foi desenvolvido utilizando abordagem **Mobile First**, adaptando a in
  ┃ ┣ 📷 banner.png
  ┃ ┣ 📷 logo.png
  ┃ ┗ 📷 ...
-``
+```
 
 ---
 
